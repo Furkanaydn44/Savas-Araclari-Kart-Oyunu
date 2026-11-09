@@ -8,6 +8,14 @@ Kullanıcı (İnsan) ve Bilgisayar (Yapay Zeka) arasında geçen bu mücadelede,
 
 Oyun, Hava, Kara ve Deniz olmak üzere üç ana sınıfa ayrılmış savaş araçlarını temel alır. Her kartın kendine has vuruş gücü, dayanıklılığı ve sınıf avantajı bulunur. Proje, sadece bir oyun olmakla kalmayıp, arka planda **Kalıtım (Inheritance)**, **Çok Biçimlilik (Polymorphism)** ve **Kapsülleme (Encapsulation)** gibi temel yazılım mimarisi prensiplerini uygulamalı olarak göstermektedir.
 
+## Proje Katılımcıları
+<a href="https://github.com/numankhy28">
+  <img src="https://avatars.githubusercontent.com/u/219421415?v=4" width="128" height="128" alt="numankhy28 GitHub Profile" />
+</a>
+<a href="https://github.com/Furkanaydn44">
+  <img src="https://avatars.githubusercontent.com/u/174454978?v=4" width="128" height="128" alt="Furkanaydn44 GitHub Profile" />
+</a>
+
 ## ✨ Temel Özellikler
 
 * **Dinamik Kart Seçimi:**
